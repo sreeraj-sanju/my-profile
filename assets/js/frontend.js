@@ -7,6 +7,7 @@ import '../styles/frontend.css';
 * License: https://bootstrapmade.com/license/
 */
 (function() {
+  alert("hyyy");
   "use strict";
 
   /**
